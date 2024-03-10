@@ -141,17 +141,24 @@ body {
 }
 #hero h4{
   padding-bottom: 15px;
-  color:#cc108d;
+  color:#d5d81a;
+  font-size: 50px;
+  padding-left: 70px;
 }
 #hero h1{
-  color: #e6f110;
+  color: #092708;
+  font-size: 35px;
+  padding-left: 130px;
 }
 #hero h2{
-  color: #314733;
+  color: #010b02;
+  font-size: 35px;
+  padding-left: 100px;
 }
 #hero p{
   color: #e84813;
-  font-size: 20px;
+  font-size: 15px;
+   padding-left: 70px;
 }
 #hero button{
   background-image: url("img/button.png");
